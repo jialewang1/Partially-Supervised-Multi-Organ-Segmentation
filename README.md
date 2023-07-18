@@ -1,1 +1,1 @@
-# Partially-Supervised-Multi-Organ-Segmentation
+This is the repository for our paper entitled "Partially Supervised Multi-Organ Segmentation via Affinity-aware Consistency Learning and Cross Site Feature Alignment", which was already acceped in MICCAI 2023. We will release our implementation soon.
